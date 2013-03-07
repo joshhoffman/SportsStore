@@ -1,0 +1,7 @@
+C:\MyProjects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\MyProjects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\MyProjects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\MyProjects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\MyProjects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\MyProjects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\MyProjects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
